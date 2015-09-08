@@ -1,5 +1,5 @@
 import os
-import mage,druid,paladin
+import heroes
 
 # Delete the log file after each game or find the breaking point between games
 # Windows C:\Program Files (x86)\Hearthstone\Hearthstone_Data\output_log.txt (or just Program Files for 32 bit people)
@@ -18,6 +18,20 @@ for line in f:
             hero='druid'
         elif 'Uther Lightbringer' in line:
             hero='paladin'
+        elif 'Jaina Proudmoore' in line:
+            hero='mage'
+        elif 'Rexxar' in line:
+            hero='hunter'
+        elif 'Garrosh Hellscream' in line:
+            hero='warrior'
+        elif "Gul'dan" in line:
+            hero='warlock'
+        elif 'Thrall' in line:
+            hero='shaman'
+        elif 'Anduin Wrynn' in line:
+            hero='priest'
+        elif 'Valeera Sanguinar' in line:
+            hero='rogue'
         else:
             cards.append(line.split('name=')[-1].split(' id=')[0]) # Card name
             
@@ -26,9 +40,23 @@ for line in f:
 #############################################
 
 if hero is 'druid':
-    druid.decks(decks)
+    heroes.druid(decks)
 if hero is 'paladin':
-    paladin.decks(decks)
+    heroes.paladin(decks)
+if hero is 'mage':
+    heroes.mage(decks)
+if hero is 'warrior':
+    heroes.warrior(decks)
+if hero is 'warlock':
+    heroes.warlock(decks)
+if hero is 'priest':
+    heroes.priest(decks)
+if hero is 'hunter':
+    heroes.hunter(decks)
+if hero is 'shaman':
+    heroes.shaman(decks)
+if hero is 'rogue':
+    heroes.rogue(decks)
 
 #############################################
 # DECK FINDER
@@ -42,7 +70,7 @@ for x in set(cards): # A set will not see a card that is played twice
                 good=True
         if good:
             good_cards=good_cards+[c[1] for c in d]
-print good_cards
+#print good_cards
 #############################################
 # POINT ASSIGNMENT
 #############################################          
