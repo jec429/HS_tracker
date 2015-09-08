@@ -1,0 +1,1209 @@
+Golemagg	Minion		50	20	20
+Molten Giant	Minion		20	8	8
+Clockwork Giant	Minion		12	8	8
+Mountain Giant	Minion		12	8	8
+Mind Control	Ability	 Priest	10	0	0
+Pyroblast	Ability	 Mage	10	0	0
+Deathwing	Minion		10	12	12
+Frost Giant	Minion		10	8	8
+Sea Giant	Minion		10	8	8
+Thaddius	Minion		10	11	11
+Varian Wrynn	Minion	 Warrior	10	7	7
+Tree of Life	Ability	 Druid	9	0	0
+Alexstrasza	Minion		9	8	8
+Anub'arak	Minion	 Rogue	9	8	4
+Aviana	Minion	 Druid	9	5	5
+Cenarius	Minion	 Druid	9	5	8
+Icehowl	Minion		9	10	10
+King Krush	Minion	 Hunter	9	8	8
+Lord Jaraxxus	Minion	 Warlock	9	3	15
+Majordomo Executus	Minion		9	9	7
+Mal'Ganis	Minion	 Warlock	9	9	7
+Malygos	Minion		9	4	12
+Mekgineer Thermaplugg	Minion		9	9	7
+Nefarian	Minion		9	8	8
+North Sea Kraken	Minion		9	9	7
+Nozdormu	Minion		9	8	8
+Onyxia	Minion		9	8	8
+Volcanic Lumberer	Minion	 Druid	9	7	8
+Ysera	Minion		9	4	12
+Activate Magmatron	Hero Power		8	0	0
+Chains	Hero Power		8	0	0
+Chains	Hero Power		8	0	0
+Lay on Hands	Ability	 Paladin	8	0	0
+Open the Gates	Ability		8	0	0
+Twisting Nether	Ability	 Warlock	8	0	0
+Al'Akir the Windlord	Minion	 Shaman	8	3	5
+Chromaggus	Minion		8	6	8
+Foe Reaper 4000	Minion		8	6	9
+Force-Tank MAX	Minion		8	7	7
+Grommash Hellscream	Minion	 Warrior	8	4	9
+Gruul	Minion		8	7	7
+Ironbark Protector	Minion	 Druid	8	8	8
+Kel'Thuzad	Minion		8	6	8
+Ragnaros the Firelord	Minion		8	8	8
+Rhonin	Minion	 Mage	8	7	7
+Sneed's Old Shredder	Minion		8	5	7
+Tirion Fordring	Minion	 Paladin	8	6	6
+V-07-TR-0N	Minion		8	4	8
+Gladiator's Longbow	Weapon	 Hunter	7	5	2
+Gorehowl	Weapon	 Warrior	7	7	1
+Crush	Ability	 Warrior	7	0	0
+Flamestrike	Ability	 Mage	7	0	0
+Locust Swarm	Ability		7	0	0
+Sprint	Ability	 Rogue	7	0	0
+Acidmaw	Minion	 Hunter	7	4	2
+Ancient of Lore	Minion	 Druid	7	5	5
+Ancient of War	Minion	 Druid	7	5	5
+Archmage Antonidas	Minion	 Mage	7	5	7
+Baron Geddon	Minion		7	7	5
+Captured Jormungar	Minion		7	5	9
+Chillmaw	Minion		7	6	6
+Confessor Paletress	Minion	 Priest	7	5	4
+Core Hound	Minion		7	9	5
+Dr. Boom	Minion		7	7	7
+Eadric the Pure	Minion	 Paladin	7	3	7
+Fearsome Doomguard	Minion	 Warlock	7	6	8
+Flame Leviathan	Minion	 Mage	7	7	7
+Gahz'rilla	Minion	 Hunter	7	6	9
+Guardian of Kings	Minion	 Paladin	7	5	6
+Knight of the Wild	Minion	 Druid	7	6	6
+Malorne	Minion	 Druid	7	9	7
+Neptulon	Minion	 Shaman	7	7	7
+Prophet Velen	Minion	 Priest	7	7	7
+Ravenholdt Assassin	Minion		7	7	5
+Rend Blackhand	Minion		7	8	4
+Skycap'n Kragg	Minion		7	4	6
+Stormwind Champion	Minion		7	6	6
+Troggzor the Earthinator	Minion		7	6	6
+War Golem	Minion		7	7	7
+Activate Electron	Hero Power		6	0	0
+Activate Magmatron	Hero Power		6	0	0
+Dual Warglaives	Weapon		6	4	2
+Avenging Wrath	Ability	 Paladin	6	0	0
+Ball of Spiders	Ability	 Hunter	6	0	0
+Blizzard	Ability	 Mage	6	0	0
+Dark Bargain	Ability	 Warlock	6	0	0
+Dark Wispers	Ability	 Druid	6	0	0
+Enter the Coliseum	Ability	 Paladin	6	0	0
+Force of Nature	Ability	 Druid	6	0	0
+Holy Fire	Ability	 Priest	6	0	0
+Lightbomb	Ability	 Priest	6	0	0
+Plague	Ability		6	0	0
+Recycle	Ability	 Druid	6	0	0
+Siphon Soul	Ability	 Warlock	6	0	0
+Starfire	Ability	 Druid	6	0	0
+Vanish	Ability	 Rogue	6	0	0
+Anima Golem	Minion	 Warlock	6	9	9
+Archmage	Minion		6	4	7
+Argent Commander	Minion		6	4	2
+Bolf Ramshield	Minion		6	3	9
+Boulderfist Ogre	Minion		6	6	7
+Cabal Shadow Priest	Minion	 Priest	6	4	5
+Cairne Bloodhoof	Minion		6	4	5
+Coldarra Drake	Minion	 Mage	6	6	6
+Dark Iron Bouncer	Minion		6	4	8
+Drakonid Crusher	Minion		6	6	6
+Drakonid Slayer	Minion		6	6	6
+Dread Infernal	Minion	 Warlock	6	6	6
+Emperor Thaurissan	Minion		6	5	5
+Fire Elemental	Minion	 Shaman	6	6	5
+Frost Elemental	Minion		6	5	5
+Gadgetzan Auctioneer	Minion		6	4	4
+Gazlowe	Minion		6	3	6
+Gelbin Mekkatorque	Minion		6	6	6
+Grand Crusader	Minion		6	5	5
+Hogger	Minion		6	4	4
+Illidan Stormrage	Minion		6	7	5
+Infernal	Minion	 Warlock	6	6	6
+Iron Juggernaut	Minion	 Warrior	6	6	5
+Justicar Trueheart	Minion		6	6	3
+Kidnapper	Minion	 Rogue	6	5	3
+Kodorider	Minion		6	3	5
+Lord of the Arena	Minion		6	6	5
+Maexxna	Minion		6	2	8
+Master Jouster	Minion		6	5	6
+Mech-Bear-Cat	Minion	 Druid	6	7	6
+Mogor the Ogre	Minion		6	7	6
+Mogor's Champion	Minion		6	8	5
+Mukla's Big Brother	Minion		6	10	10
+Mysterious Challenger	Minion	 Paladin	6	6	6
+Piloted Sky Golem	Minion		6	6	4
+Priestess of Elune	Minion		6	5	4
+Razorgore	Minion		6	4	12
+Reckless Rocketeer	Minion		6	5	2
+Savannah Highmane	Minion	 Hunter	6	6	5
+Sea Reaver	Minion	 Warrior	6	6	7
+Shieldmaiden	Minion	 Warrior	6	5	5
+Sideshow Spelleater	Minion		6	6	5
+Sunwalker	Minion		6	4	5
+Sylvanas Windrunner	Minion		6	5	5
+Temple Enforcer	Minion	 Priest	6	6	6
+The Beast	Minion		6	9	7
+The Black Knight	Minion		6	4	5
+The Mistcaller	Minion	 Shaman	6	4	4
+The Skeleton Knight	Minion		6	7	4
+Toshley	Minion		6	5	7
+Trade Prince Gallywix	Minion	 Rogue	6	5	8
+Unrelenting Rider	Minion		6	5	6
+Vaelastrasz	Minion		6	7	7
+Void Crusher	Minion	 Warlock	6	5	4
+Volcanic Drake	Minion		6	6	4
+Wilfred Fizzlebang	Minion	 Warlock	6	4	4
+Windfury Harpy	Minion		6	4	5
+Unholy Shadow	Hero Power		5	0	0
+Arcanite Reaper	Weapon	 Warrior	5	5	2
+Ashbringer	Weapon	 Paladin	5	5	3
+Assassin's Blade	Weapon	 Rogue	5	3	4
+Doomhammer	Weapon	 Shaman	5	2	8
+Assassinate	Ability	 Rogue	5	0	0
+Bane of Doom	Ability	 Warlock	5	0	0
+Blessed Champion	Ability	 Paladin	5	0	0
+Bloodlust	Ability	 Shaman	5	0	0
+Brawl	Ability	 Warrior	5	0	0
+Cobra Shot	Ability	 Hunter	5	0	0
+Demonheart	Ability	 Warlock	5	0	0
+Dragon's Breath	Ability	 Mage	5	0	0
+Explosive Shot	Ability	 Hunter	5	0	0
+Flame Lance	Ability	 Mage	5	0	0
+Holy Nova	Ability	 Priest	5	0	0
+Holy Wrath	Ability	 Paladin	5	0	0
+Mark of the Horsemen	Ability		5	0	0
+Nourish	Ability	 Druid	5	0	0
+Pure Cold	Ability		5	0	0
+Solemn Vigil	Ability	 Paladin	5	0	0
+Starfall	Ability	 Druid	5	0	0
+Abomination	Minion		5	4	4
+Antique Healbot	Minion		5	3	3
+Azure Drake	Minion		5	4	4
+Blackwing Corruptor	Minion		5	5	4
+Blingtron 3000	Minion		5	3	4
+Bolvar Fordragon	Minion	 Paladin	5	1	7
+Bomb Lobber	Minion		5	3	3
+Booty Bay Bodyguard	Minion		5	5	4
+Captain Greenskin	Minion		5	5	4
+Clockwork Knight	Minion		5	5	5
+Cobalt Guardian	Minion	 Paladin	5	6	3
+Dark Iron Skulker	Minion	 Rogue	5	4	3
+Darkscale Healer	Minion		5	4	5
+Devilsaur	Minion		5	5	5
+Doomguard	Minion	 Warlock	5	5	7
+Dragon Consort	Minion	 Paladin	5	5	5
+Dragonkin Spellcaster	Minion		5	4	6
+Druid of the Claw	Minion	 Druid	5	4	4
+Druid of the Claw	Minion	 Druid	5	4	4
+Druid of the Claw	Minion	 Druid	5	4	6
+Druid of the Fang	Minion	 Druid	5	4	4
+Druid of the Fang	Minion	 Druid	5	7	7
+Earth Elemental	Minion	 Shaman	5	7	8
+Elite Tauren Chieftain	Minion		5	5	5
+Faceless Manipulator	Minion		5	3	3
+Fel Reaver	Minion		5	8	8
+Fen Creeper	Minion		5	3	6
+Feugen	Minion		5	4	7
+Feugen	Minion		5	4	7
+Floating Watcher	Minion	 Warlock	5	4	4
+Frostwolf Warlord	Minion		5	4	4
+Frozen Champion	Minion		5	2	10
+Garr	Minion		5	4	8
+Grim Patron	Minion		5	3	3
+Gurubashi Berserker	Minion		5	2	7
+Harrison Jones	Minion		5	5	4
+Hemet Nesingwary	Minion		5	6	3
+Junkbot	Minion		5	1	5
+King of Beasts	Minion	 Hunter	5	2	6
+Kvaldir Raider	Minion		5	4	4
+Leeroy Jenkins	Minion		5	6	2
+Loatheb	Minion		5	5	5
+Madder Bomber	Minion		5	5	4
+Magmatron	Minion		5	7	7
+Magmatron	Minion		5	8	8
+Magmaw	Minion		5	10	2
+Mimiron's Head	Minion		5	4	5
+Mukla's Champion	Minion		5	4	3
+Nexus-Champion Saraad	Minion		5	4	5
+Nightblade	Minion		5	4	4
+Ogre Ninja	Minion	 Rogue	5	6	6
+Pit Fighter	Minion		5	5	6
+Quartermaster	Minion	 Paladin	5	2	5
+Ram Wrangler	Minion	 Hunter	5	3	3
+Recruiter	Minion		5	5	4
+Salty Dog	Minion		5	7	4
+Shado-Pan Rider	Minion	 Rogue	5	3	7
+Siege Engine	Minion	 Warrior	5	5	5
+Silver Hand Knight	Minion		5	4	4
+Skeleton	Minion		5	5	5
+Sludge Belcher	Minion		5	3	5
+Spectral Knight	Minion		5	4	6
+Spectral Rider	Minion		5	0	6
+Spiteful Smith	Minion		5	4	6
+Stalagg	Minion		5	7	4
+Stalagg	Minion		5	7	4
+Stampeding Kodo	Minion		5	3	5
+Starving Buzzard	Minion	 Hunter	5	3	2
+Stormpike Commando	Minion		5	4	2
+Stranglethorn Tiger	Minion		5	5	5
+Thunder Bluff Valiant	Minion	 Shaman	5	3	6
+Tundra Rhino	Minion	 Hunter	5	2	5
+Tuskarr Jouster	Minion	 Paladin	5	5	5
+Upgraded Repair Bot	Minion	 Priest	5	5	5
+Venture Co. Mercenary	Minion		5	7	6
+Vol'jin	Minion	 Priest	5	6	2
+War Kodo	Minion		5	3	5
+Activate Electron	Hero Power		4	0	0
+Activate Toxitron	Hero Power		4	0	0
+Activate!	Hero Power		4	0	0
+Dismount	Hero Power		4	0	0
+Dismount	Hero Power		4	0	0
+Hateful Strike	Hero Power		4	0	0
+Hateful Strike	Hero Power		4	0	0
+Charged Hammer	Weapon	 Shaman	4	2	4
+Death's Bite	Weapon	 Warrior	4	4	2
+Poisoned Blade	Weapon	 Rogue	4	1	3
+Truesilver Champion	Weapon	 Paladin	4	4	2
+Ancestor's Call	Ability	 Shaman	4	0	0
+Astral Communion	Ability	 Druid	4	0	0
+Bite	Ability	 Druid	4	0	0
+Blessing of Kings	Ability	 Paladin	4	0	0
+Cone of Cold	Ability	 Mage	4	0	0
+Consecration	Ability	 Paladin	4	0	0
+Deathbloom	Ability		4	0	0
+Echo of Medivh	Ability	 Mage	4	0	0
+Fireball	Ability	 Mage	4	0	0
+Fist of Jaraxxus	Ability	 Warlock	4	0	0
+Hammer of Wrath	Ability	 Paladin	4	0	0
+Hellfire	Ability	 Warlock	4	0	0
+I Am Murloc	Ability		4	0	0
+Imp-losion	Ability	 Warlock	4	0	0
+Living Bomb	Ability		4	0	0
+Mass Dispel	Ability	 Priest	4	0	0
+Mindgames	Ability	 Priest	4	0	0
+Mortal Strike	Ability	 Warrior	4	0	0
+Multi-Shot	Ability	 Hunter	4	0	0
+Poison Seeds	Ability	 Druid	4	0	0
+Polymorph	Ability	 Mage	4	0	0
+Power of the Horde	Ability		4	0	0
+Rogues Do It...	Ability		4	0	0
+Sabotage	Ability	 Rogue	4	0	0
+Shadow Madness	Ability	 Priest	4	0	0
+Shadowflame	Ability	 Warlock	4	0	0
+Sonic Breath	Ability		4	0	0
+Soul of the Forest	Ability	 Druid	4	0	0
+Swipe	Ability	 Druid	4	0	0
+Tail Swipe	Ability		4	0	0
+TIME FOR SMASH	Ability		4	0	0
+Tinker's Sharpsword Oil	Ability	 Rogue	4	0	0
+Ancient Brewmaster	Minion		4	5	4
+Ancient Mage	Minion		4	2	5
+Anub'ar Ambusher	Minion	 Rogue	4	5	5
+Arathi Weaponsmith	Minion	 Warrior	4	3	3
+Arcane Nullifier X-21	Minion		4	2	5
+Armored Warhorse	Minion		4	5	3
+Atramedes	Minion		4	2	8
+Auchenai Soulpriest	Minion	 Priest	4	3	5
+Axe Flinger	Minion	 Warrior	4	2	5
+Baine Bloodhoof	Minion		4	4	5
+Baron Rivendare	Minion		4	1	7
+Brewmaster	Minion		4	4	4
+Burly Rockjaw Trogg	Minion		4	3	5
+Chillwind Yeti	Minion		4	4	5
+Chromatic Drake	Minion		4	7	3
+Chromatic Drake	Minion		4	7	7
+Core Rager	Minion	 Hunter	4	4	4
+Coren Direbrew	Minion		4	4	8
+Crowd Favorite	Minion		4	4	4
+Cult Master	Minion		4	4	2
+Dalaran Aspirant	Minion	 Mage	4	3	5
+Dark Iron Dwarf	Minion		4	4	4
+Defender of Argus	Minion		4	2	3
+Draenei Totemcarver	Minion	 Shaman	4	4	4
+Dragonkin Sorcerer	Minion		4	3	5
+Dragonling Mechanic	Minion		4	2	4
+Dread Corsair	Minion		4	3	3
+Dreadsteed	Minion	 Warlock	4	1	1
+Dunemaul Shaman	Minion	 Shaman	4	5	4
+Emerald Drake	Minion	 Dream	4	7	6
+Enhance-o Mechano	Minion		4	3	2
+Ethereal Arcanist	Minion	 Mage	4	3	3
+Evil Heckler	Minion		4	5	4
+Fel Cannon	Minion	 Warlock	4	3	5
+Fireguard Destroyer	Minion	 Shaman	4	3	6
+Frigid Snobold	Minion		4	2	6
+Gnomish Inventor	Minion		4	2	4
+Goblin Blastmage	Minion	 Mage	4	5	4
+Gormok the Impaler	Minion		4	4	4
+Guardian of Icecrown	Minion		4	3	3
+Guardian of Icecrown	Minion		4	5	5
+Holy Champion	Minion	 Priest	4	3	5
+Houndmaster	Minion	 Hunter	4	4	3
+Hungry Dragon	Minion		4	5	6
+Jeeves	Minion		4	1	4
+Keeper of the Grove	Minion	 Druid	4	2	4
+Kezan Mystic	Minion		4	4	3
+Kor'kron Elite	Minion	 Warrior	4	4	3
+Lightspawn	Minion	 Priest	4	0	5
+Lost Tallstrider	Minion		4	5	4
+Lucifron	Minion		4	4	7
+Magnataur Alpha	Minion	 Warrior	4	5	3
+Maiden of the Lake	Minion		4	2	6
+Massive Gnoll	Minion		4	5	2
+Master of Disguise	Minion	 Rogue	4	4	4
+Mechanical Yeti	Minion		4	4	5
+Mini-Mage	Minion		4	4	1
+Mogu'shan Warden	Minion		4	1	7
+Murloc Knight	Minion	 Paladin	4	3	4
+Necroknight	Minion		4	5	6
+Oasis Snapjaw	Minion		4	2	7
+Ogre Magi	Minion		4	4	4
+Old Murk-Eye	Minion		4	2	4
+Piloted Shredder	Minion		4	4	3
+Pit Lord	Minion	 Warlock	4	5	6
+Refreshment Vendor	Minion		4	3	5
+Savage Combatant	Minion	 Druid	4	5	4
+Screwjank Clunker	Minion	 Warrior	4	2	5
+Sen'jin Shieldmasta	Minion		4	3	5
+Siltfin Spiritwalker	Minion	 Shaman	4	2	5
+Silvermoon Guardian	Minion		4	3	3
+Spawn of Shadows	Minion	 Priest	4	5	4
+Spellbreaker	Minion		4	4	3
+Stormwind Knight	Minion		4	2	5
+Summoning Portal	Minion	 Warlock	4	0	4
+Tournament Medic	Minion		4	1	8
+Twilight Drake	Minion		4	4	1
+Twilight Guardian	Minion		4	2	6
+Violet Teacher	Minion		4	3	5
+Voidcaller	Minion	 Warlock	4	3	4
+Wailing Soul	Minion		4	3	5
+Water Elemental	Minion	 Mage	4	3	6
+Wee Spellstopper	Minion	 Mage	4	2	5
+Wildwalker	Minion	 Druid	4	4	4
+Windspeaker	Minion	 Shaman	4	3	3
+Web Wrap	Hero Power		3	0	0
+Blood Fury	Weapon	 Warlock	3	3	8
+Coghammer	Weapon	 Paladin	3	2	3
+Cogmaster's Wrench	Weapon	 Rogue	3	1	3
+Eaglehorn Bow	Weapon	 Hunter	3	3	2
+Hook	Weapon		3	5	8
+Hook	Weapon		3	4	8
+King's Defender	Weapon	 Warrior	3	3	2
+Massive Runeblade	Weapon		3	5	2
+Massive Runeblade	Weapon		3	10	2
+Ogre Warmaul	Weapon	 Warrior	3	4	2
+Perdition's Blade	Weapon	 Rogue	3	2	2
+Powermace	Weapon	 Shaman	3	3	2
+Runeblade	Weapon		3	1	3
+Runeblade	Weapon		3	2	3
+Sword of Justice	Weapon	 Paladin	3	1	5
+Animal Companion	Ability	 Hunter	3	0	0
+Arcane Intellect	Ability	 Mage	3	0	0
+Bash	Ability	 Warrior	3	0	0
+Beneath the Grounds	Ability	 Rogue	3	0	0
+Bouncing Blade	Ability	 Warrior	3	0	0
+Brood Affliction: Black	Ability		3	0	0
+Brood Affliction: Blue	Ability		3	0	0
+Brood Affliction: Bronze	Ability		3	0	0
+Brood Affliction: Green	Ability		3	0	0
+Brood Affliction: Red	Ability		3	0	0
+Burgle	Ability	 Rogue	3	0	0
+Charge	Ability	 Warrior	3	0	0
+Core Hound Puppies	Ability		3	0	0
+Counterspell	Ability	 Mage	3	0	0
+Deadly Shot	Ability	 Hunter	3	0	0
+Demonwrath	Ability	 Warlock	3	0	0
+Divine Favor	Ability	 Paladin	3	0	0
+Drain Life	Ability	 Warlock	3	0	0
+Duplicate	Ability	 Mage	3	0	0
+Effigy	Ability	 Mage	3	0	0
+Elemental Destruction	Ability	 Shaman	3	0	0
+Enrage	Ability		3	0	0
+Fan of Knives	Ability	 Rogue	3	0	0
+Far Sight	Ability	 Shaman	3	0	0
+Feral Spirit	Ability	 Shaman	3	0	0
+Flame Burst	Ability		3	0	0
+Flameheart	Ability		3	0	0
+Frost Nova	Ability	 Mage	3	0	0
+Get 'em!	Ability		3	0	0
+Headcrack	Ability	 Rogue	3	0	0
+Healing Touch	Ability	 Druid	3	0	0
+Healing Wave	Ability	 Shaman	3	0	0
+Hex	Ability	 Shaman	3	0	0
+Hogger SMASH!	Ability		3	0	0
+Ice Barrier	Ability	 Mage	3	0	0
+Ice Block	Ability	 Mage	3	0	0
+Kill Command	Ability	 Hunter	3	0	0
+Lava Burst	Ability	 Shaman	3	0	0
+Legacy of the Emperor	Ability		3	0	0
+Lightning Storm	Ability	 Shaman	3	0	0
+Living Bomb	Ability		3	0	0
+Living Bomb	Ability		3	0	0
+Mark of Nature	Ability	 Druid	3	0	0
+Mirror Entity	Ability	 Mage	3	0	0
+Mulch	Ability	 Druid	3	0	0
+Muster for Battle	Ability	 Paladin	3	0	0
+Mutating Injection	Ability		3	0	0
+Omnotron Defense System	Ability		3	0	0
+Polymorph: Boar	Ability	 Mage	3	0	0
+Powershot	Ability	 Hunter	3	0	0
+Rock Out	Ability		3	0	0
+Rock Out	Ability		3	0	0
+Savage Roar	Ability	 Druid	3	0	0
+Seal of Champions	Ability	 Paladin	3	0	0
+Sense Demons	Ability	 Warlock	3	0	0
+Shadow Bolt	Ability	 Warlock	3	0	0
+Shadow Word: Death	Ability	 Priest	3	0	0
+Shadowform	Ability	 Priest	3	0	0
+Shield Block	Ability	 Warrior	3	0	0
+Spellbender	Ability	 Mage	3	0	0
+Thoughtsteal	Ability	 Priest	3	0	0
+Unleash the Hounds	Ability	 Hunter	3	0	0
+Vaporize	Ability	 Mage	3	0	0
+Velen's Chosen	Ability	 Priest	3	0	0
+Will of Mukla	Ability		3	0	0
+Acolyte of Pain	Minion		3	1	3
+Alarm-o-Bot	Minion		3	0	3
+Aldor Peacekeeper	Minion	 Paladin	3	3	3
+Arcane Golem	Minion		3	4	2
+Argent Horserider	Minion		3	2	1
+Big Game Hunter	Minion		3	4	2
+Blackwing Technician	Minion		3	2	4
+Blood Knight	Minion		3	3	3
+Boar	Minion		3	4	2
+Coldlight Oracle	Minion		3	2	2
+Coldlight Seer	Minion		3	2	3
+Coliseum Manager	Minion		3	2	5
+Core Hound Pup	Minion		3	2	4
+Dalaran Mage	Minion		3	1	4
+Dancing Swords	Minion		3	4	4
+Dark Cultist	Minion	 Priest	3	3	4
+Deathlord	Minion		3	2	8
+Demolisher	Minion		3	1	4
+Dragonhawk Rider	Minion		3	3	3
+Dreadscale	Minion	 Hunter	3	4	2
+Druid of the Flame	Minion	 Druid	3	2	2
+Druid of the Flame	Minion	 Druid	3	5	2
+Druid of the Flame	Minion	 Druid	3	2	5
+Earthen Ring Farseer	Minion		3	3	3
+Edwin VanCleef	Minion	 Rogue	3	2	2
+Electron	Minion		3	5	5
+Electron	Minion		3	6	6
+Emperor Cobra	Minion		3	2	3
+Eydis Darkbane	Minion		3	3	4
+Felguard	Minion	 Warlock	3	3	5
+Fencing Coach	Minion		3	2	2
+Fjola Lightbane	Minion		3	3	4
+Flamewaker	Minion	 Mage	3	2	4
+Flesheating Ghoul	Minion		3	2	3
+Flying Machine	Minion		3	1	4
+Frothing Berserker	Minion	 Warrior	3	2	4
+Gnomeregan Infantry	Minion		3	1	4
+Gnomish Experimenter	Minion		3	3	2
+Goblin Sapper	Minion		3	2	4
+Grove Tender	Minion	 Druid	3	2	4
+Gyth	Minion		3	8	8
+Gyth	Minion		3	8	4
+Harvest Golem	Minion		3	2	3
+High Justice Grimstone	Minion		3	4	5
+Hobgoblin	Minion		3	2	3
+Huffer	Minion	 Hunter	3	4	2
+Ice Rager	Minion		3	5	2
+Illuminator	Minion		3	2	4
+Imp Gang Boss	Minion	 Warlock	3	2	4
+Imp Master	Minion		3	1	5
+Injured Blademaster	Minion		3	4	7
+Iron Sensei	Minion	 Rogue	3	2	2
+Ironforge Rifleman	Minion		3	2	2
+Ironfur Grizzly	Minion		3	3	3
+Jungle Panther	Minion		3	4	2
+King Mukla	Minion		3	5	5
+Kirin Tor Mage	Minion	 Mage	3	4	3
+Lady Blaumeux	Minion		3	1	7
+Lady Blaumeux	Minion		3	2	7
+Laughing Sister	Minion	 Dream	3	3	5
+Leokk	Minion	 Hunter	3	2	4
+Light's Champion	Minion		3	4	3
+Lil' Exorcist	Minion		3	2	3
+Magma Rager	Minion		3	5	1
+Mana Tide Totem	Minion	 Shaman	3	0	3
+Master of Ceremonies	Minion		3	4	2
+Metaltooth Leaper	Minion	 Hunter	3	3	3
+Mind Control Tech	Minion		3	3	3
+Misha	Minion	 Hunter	3	4	4
+Moira Bronzebeard	Minion		3	4	3
+Murloc Warleader	Minion		3	3	3
+Nerubian	Minion		3	4	4
+Nerubian	Minion	 Rogue	3	4	4
+Ogre Brute	Minion		3	4	4
+Orgrimmar Aspirant	Minion	 Warrior	3	3	3
+Questing Adventurer	Minion		3	2	2
+Raging Worgen	Minion		3	3	3
+Raid Leader	Minion		3	2	2
+Razorfen Hunter	Minion		3	2	3
+Saboteur	Minion		3	4	3
+Scarlet Crusader	Minion		3	3	1
+Scarlet Purifier	Minion	 Paladin	3	4	3
+Shade of Naxxramas	Minion		3	2	2
+Shadowfiend	Minion	 Priest	3	3	3
+Shady Dealer	Minion	 Rogue	3	4	3
+Shattered Sun Cleric	Minion		3	3	2
+SI:7 Agent	Minion	 Rogue	3	3	3
+Silent Knight	Minion		3	2	2
+Silver Hand Regent	Minion		3	3	3
+Silverback Patriarch	Minion		3	1	4
+Sir Zeliek	Minion		3	1	7
+Sir Zeliek	Minion		3	2	7
+Skeletal Smith	Minion		3	4	3
+Son of the Flame	Minion		3	6	3
+Soot Spewer	Minion	 Mage	3	3	3
+Southsea Captain	Minion		3	3	3
+Spectral Warrior	Minion		3	0	4
+Spellslinger	Minion	 Mage	3	3	4
+Spider Tank	Minion		3	3	4
+Stablemaster	Minion	 Hunter	3	4	2
+Stoneskin Gargoyle	Minion		3	1	4
+Tauren Warrior	Minion		3	2	3
+Thane Korth'azz	Minion		3	1	7
+Thane Korth'azz	Minion		3	2	7
+Thrallmar Farseer	Minion		3	2	3
+Tinkertown Technician	Minion		3	3	3
+Tinkmaster Overspark	Minion		3	3	3
+Tuskarr Totemic	Minion	 Shaman	3	3	2
+Unbound Elemental	Minion	 Shaman	3	2	4
+Unrelenting Warrior	Minion		3	3	4
+Void Terror	Minion	 Warlock	3	3	3
+Warhorse Trainer	Minion	 Paladin	3	2	4
+Warsong Commander	Minion	 Warrior	3	2	3
+Wolfrider	Minion		3	3	1
+Worshipper	Minion		3	1	4
+Worshipper	Minion		3	2	4
+Activate Arcanotron	Hero Power		2	0	0
+Activate Toxitron	Hero Power		2	0	0
+Activate!	Hero Power		2	0	0
+Armor Up!	Hero Power	 Warrior	2	0	0
+Armor Up!	Hero Power	 Warrior	2	0	0
+Ballista Shot	Hero Power	 Hunter	2	0	0
+Ballista Shot	Hero Power	 Hunter	2	0	0
+Bone Minions	Hero Power		2	0	0
+Bone Minions	Hero Power		2	0	0
+Dagger Mastery	Hero Power	 Rogue	2	0	0
+Decimate	Hero Power		2	0	0
+DIE, INSECT!	Hero Power		2	0	0
+DIE, INSECTS!	Hero Power		2	0	0
+Dire Shapeshift	Hero Power	 Druid	2	0	0
+Fireblast	Hero Power	 Mage	2	0	0
+Fireblast	Hero Power	 Mage	2	0	0
+Fireblast Rank 2	Hero Power	 Mage	2	0	0
+Fireblast Rank 2	Hero Power	 Mage	2	0	0
+Flames of Azzinoth	Hero Power		2	0	0
+Harvest	Hero Power		2	0	0
+Heal	Hero Power	 Priest	2	0	0
+INFERNO!	Hero Power	 Warlock	2	0	0
+Lesser Heal	Hero Power	 Priest	2	0	0
+Lightning Jolt	Hero Power	 Shaman	2	0	0
+Mind Shatter	Hero Power	 Priest	2	0	0
+Mind Spike	Hero Power	 Priest	2	0	0
+Molten Rage	Hero Power		2	0	0
+Necrotic Aura	Hero Power		2	0	0
+Old Horde	Hero Power		2	0	0
+Old Horde	Hero Power		2	0	0
+Open the Gates	Hero Power		2	0	0
+Open the Gates	Hero Power		2	0	0
+Poison Cloud	Hero Power		2	0	0
+Poisoned Daggers	Hero Power	 Rogue	2	0	0
+Power of the Firelord	Hero Power		2	0	0
+Rain of Fire	Hero Power		2	0	0
+Reinforce	Hero Power	 Paladin	2	0	0
+Reinforce	Hero Power	 Paladin	2	0	0
+Shapeshift	Hero Power	 Druid	2	0	0
+Shotgun Blast	Hero Power	 Hunter	2	0	0
+Skitter	Hero Power		2	0	0
+Skitter	Hero Power		2	0	0
+Soul Tap	Hero Power	 Warlock	2	0	0
+Steady Shot	Hero Power	 Hunter	2	0	0
+Steady Shot	Hero Power	 Hunter	2	0	0
+Tank Up!	Hero Power	 Warrior	2	0	0
+Tank Up!	Hero Power	 Warrior	2	0	0
+The Majordomo	Hero Power		2	0	0
+The Majordomo	Hero Power		2	0	0
+The Silver Hand	Hero Power	 Paladin	2	0	0
+Totemic Call	Hero Power	 Shaman	2	0	0
+Totemic Slam	Hero Power	 Shaman	2	0	0
+Unbalancing Strike	Hero Power		2	0	0
+Wild Magic	Hero Power		2	0	0
+Argent Lance	Weapon	 Paladin	2	2	2
+Fiery War Axe	Weapon	 Warrior	2	3	2
+Glaivezooka	Weapon	 Hunter	2	2	2
+Onyxiclaw	Weapon		2	2	6
+Stormforged Axe	Weapon	 Shaman	2	2	3
+Sulfuras	Weapon		2	2	6
+Warglaive of Azzinoth	Weapon		2	2	2
+Ancestral Knowledge	Ability	 Shaman	2	0	0
+Ancestral Spirit	Ability	 Shaman	2	0	0
+Arcane Explosion	Ability	 Mage	2	0	0
+Battle Rage	Ability	 Warrior	2	0	0
+Bear Trap	Ability	 Hunter	2	0	0
+Betrayal	Ability	 Rogue	2	0	0
+Blade Flurry	Ability	 Rogue	2	0	0
+Bolster	Ability	 Warrior	2	0	0
+Call Pet	Ability	 Hunter	2	0	0
+Chromatic Mutation	Ability		2	0	0
+Cleave	Ability	 Warrior	2	0	0
+Commanding Shout	Ability	 Warrior	2	0	0
+Confuse	Ability	 Priest	2	0	0
+Convert	Ability	 Priest	2	0	0
+Crackle	Ability	 Shaman	2	0	0
+Darkbomb	Ability	 Warlock	2	0	0
+Demonfire	Ability	 Warlock	2	0	0
+Demonfuse	Ability	 Warlock	2	0	0
+Divine Spirit	Ability	 Priest	2	0	0
+Equality	Ability	 Paladin	2	0	0
+Eviscerate	Ability	 Rogue	2	0	0
+Explosive Trap	Ability	 Hunter	2	0	0
+Feign Death	Ability	 Hunter	2	0	0
+Flamecannon	Ability	 Mage	2	0	0
+Flare	Ability	 Hunter	2	0	0
+Freezing Trap	Ability	 Hunter	2	0	0
+Frostbolt	Ability	 Mage	2	0	0
+Gang Up	Ability	 Rogue	2	0	0
+Heroic Strike	Ability	 Warrior	2	0	0
+Holy Light	Ability	 Paladin	2	0	0
+Lava Shock	Ability	 Shaman	2	0	0
+LAVA!	Ability		2	0	0
+Lock and Load	Ability	 Hunter	2	0	0
+Mark of the Wild	Ability	 Druid	2	0	0
+Mind Blast	Ability	 Priest	2	0	0
+Mindpocalypse	Ability		2	0	0
+Misdirection	Ability	 Hunter	2	0	0
+Necrotic Poison	Ability		2	0	0
+NOOOOOOOOOOOO	Ability		2	0	0
+Power of the Wild	Ability	 Druid	2	0	0
+Quick Shot	Ability	 Hunter	2	0	0
+Rampage	Ability	 Warrior	2	0	0
+Reincarnate	Ability	 Shaman	2	0	0
+Release the Aberrations!	Ability		2	0	0
+Resurrect	Ability	 Priest	2	0	0
+Revenge	Ability	 Warrior	2	0	0
+Sap	Ability	 Rogue	2	0	0
+Seal of Light	Ability	 Paladin	2	0	0
+Shadow Word: Pain	Ability	 Priest	2	0	0
+Shiv	Ability	 Rogue	2	0	0
+Slam	Ability	 Warrior	2	0	0
+Snake Trap	Ability	 Hunter	2	0	0
+Snipe	Ability	 Hunter	2	0	0
+Stomp	Ability		2	0	0
+Supercharge	Ability		2	0	0
+Unstable Portal	Ability	 Mage	2	0	0
+Wild Growth	Ability	 Druid	2	0	0
+Windfury	Ability	 Shaman	2	0	0
+Wrath	Ability	 Druid	2	0	0
+Ysera Awakens	Ability	 Dream	2	0	0
+Acidic Swamp Ooze	Minion		2	3	2
+Alexstrasza's Champion	Minion	 Warrior	2	2	3
+Amani Berserker	Minion		2	2	3
+Ancient Watcher	Minion		2	4	5
+Annoy-o-Tron	Minion		2	1	2
+Anodized Robo Cub	Minion	 Druid	2	2	2
+Argent Protector	Minion	 Paladin	2	2	2
+Argent Watchman	Minion		2	2	4
+Armorsmith	Minion	 Warrior	2	1	4
+Bloodfen Raptor	Minion		2	3	2
+Bloodmage Thalnos	Minion		2	1	1
+Bloodsail Raider	Minion		2	2	3
+Bluegill Warrior	Minion		2	2	1
+Boneguard Lieutenant	Minion		2	3	2
+Captain's Parrot	Minion		2	1	1
+Chromatic Dragonkin	Minion		2	2	3
+Chromatic Prototype	Minion		2	1	4
+Crazed Alchemist	Minion		2	2	2
+Cruel Taskmaster	Minion	 Warrior	2	2	2
+Cutpurse	Minion	 Rogue	2	2	2
+Darnassus Aspirant	Minion	 Druid	2	2	3
+Defias Ringleader	Minion	 Rogue	2	2	2
+Dire Wolf Alpha	Minion		2	2	2
+Doomsayer	Minion		2	0	7
+Druid of the Saber	Minion	 Druid	2	2	1
+Echoing Ooze	Minion		2	1	2
+Explosive Sheep	Minion		2	1	1
+Faerie Dragon	Minion		2	3	2
+Fallen Hero	Minion	 Mage	2	3	2
+Finkle Einhorn	Minion		2	3	3
+Flame Juggler	Minion		2	2	3
+Flametongue Totem	Minion	 Shaman	2	0	3
+Flamewaker Acolyte	Minion		2	1	3
+Flamewaker Acolyte	Minion		2	3	3
+Frostwolf Grunt	Minion		2	2	2
+Garrison Commander	Minion		2	2	3
+Gilblin Stalker	Minion		2	2	3
+Gnoll	Minion		2	2	2
+Goblin Auto-Barber	Minion	 Rogue	2	3	2
+Haunted Creeper	Minion		2	1	2
+Hidden Gnome	Minion		2	1	3
+Hyena	Minion	 Hunter	2	2	2
+Ironbeak Owl	Minion		2	2	1
+King's Elekk	Minion	 Hunter	2	3	2
+Knife Juggler	Minion		2	3	2
+Kobold Geomancer	Minion		2	2	2
+Lance Carrier	Minion		2	1	2
+Lightwell	Minion	 Priest	2	0	5
+Living Lava	Minion		2	6	6
+Loot Hoarder	Minion		2	2	1
+Lorewalker Cho	Minion		2	0	4
+Mad Bomber	Minion		2	3	2
+Mad Scientist	Minion		2	2	2
+Mana Addict	Minion		2	1	3
+Mana Wraith	Minion		2	2	2
+Master Swordsmith	Minion		2	1	3
+Mechwarper	Minion		2	2	3
+Micro Machine	Minion		2	1	2
+Millhouse Manastorm	Minion		2	4	4
+Mistress of Pain	Minion	 Warlock	2	1	4
+Moira Bronzebeard	Minion		2	1	3
+Moira Bronzebeard	Minion		2	3	1
+Murloc Tidehunter	Minion		2	2	1
+Nat Pagle	Minion		2	0	4
+Nerub'ar Weblord	Minion		2	1	4
+Nerubian	Minion		2	4	4
+Nerubian	Minion		2	3	1
+Nerubian Egg	Minion		2	0	2
+Novice Engineer	Minion		2	1	1
+One-eyed Cheat	Minion	 Rogue	2	4	1
+Panther	Minion	 Druid	2	3	2
+Patient Assassin	Minion	 Rogue	2	1	1
+Pint-Sized Summoner	Minion		2	2	2
+Pirate	Minion		2	2	3
+Puddlestomper	Minion		2	3	2
+Recombobulator	Minion		2	3	2
+River Crocolisk	Minion		2	2	3
+Rock Elemental	Minion		2	2	3
+Sabertooth Lion	Minion	 Druid	2	2	1
+Sabertooth Panther	Minion	 Druid	2	3	2
+Scavenging Hyena	Minion	 Hunter	2	2	2
+Shado-Pan Monk	Minion		2	2	2
+Shadowboxer	Minion	 Priest	2	2	3
+Shielded Minibot	Minion	 Paladin	2	2	2
+Ship's Cannon	Minion		2	2	3
+Shrinkmeister	Minion	 Priest	2	3	2
+Snowchugger	Minion	 Mage	2	2	3
+Sorcerer's Apprentice	Minion	 Mage	2	3	2
+Sparring Partner	Minion	 Warrior	2	3	2
+Spirit Wolf	Minion	 Shaman	2	2	3
+Steamwheedle Sniper	Minion	 Hunter	2	2	3
+Stonesplinter Trogg	Minion		2	2	3
+Succubus	Minion	 Warlock	2	4	3
+Sunfury Protector	Minion		2	2	3
+Tiny Knight of Evil	Minion	 Warlock	2	3	2
+Totem Golem	Minion	 Shaman	2	3	4
+Undercity Valiant	Minion	 Rogue	2	3	2
+Understudy	Minion		2	0	7
+Unstable Ghoul	Minion		2	1	3
+Vitality Totem	Minion	 Shaman	2	0	3
+Whirling Ash	Minion		2	4	5
+Whirling Zap-o-matic	Minion	 Shaman	2	3	2
+Wild Pyromancer	Minion		2	3	2
+Wrathguard	Minion	 Warlock	2	4	3
+Wyrmrest Agent	Minion	 Priest	2	1	4
+Youthful Brewmaster	Minion		2	3	2
+Blackwing	Hero Power		1	0	0
+Blackwing	Hero Power		1	0	0
+Echolocate	Hero Power		1	0	0
+Eruption	Hero Power		1	0	0
+Harvest	Hero Power		1	0	0
+Jeering Crowd	Hero Power		1	0	0
+Magma Pulse	Hero Power		1	0	0
+ME SMASH	Hero Power		1	0	0
+Mutation	Hero Power		1	0	0
+Rain of Fire	Hero Power		1	0	0
+The Rookery	Hero Power		1	0	0
+True Form	Hero Power		1	0	0
+True Form	Hero Power		1	0	0
+Unbalancing Strike	Hero Power		1	0	0
+Wild Magic	Hero Power		1	0	0
+Wild Magic	Hero Power		1	0	0
+Battle Axe	Weapon	 Warrior	1	2	2
+Dragonteeth	Weapon		1	0	6
+Heavy Axe	Weapon	 Warrior	1	1	3
+Jaws	Weapon		1	1	5
+Jaws	Weapon		1	3	5
+Light's Justice	Weapon	 Paladin	1	1	4
+Poisoned Dagger	Weapon	 Rogue	1	2	2
+Razorgore's Claws	Weapon		1	1	5
+Wicked Knife	Weapon	 Rogue	1	1	2
+Arcane Blast	Ability	 Mage	1	0	0
+Arcane Missiles	Ability	 Mage	1	0	0
+Arcane Shot	Ability	 Hunter	1	0	0
+Armor Plating	Ability		1	0	0
+Avenge	Ability	 Paladin	1	0	0
+Bananas	Ability		1	0	0
+Bananas	Ability		1	0	0
+Barrel Toss	Ability		1	0	0
+Bestial Wrath	Ability	 Hunter	1	0	0
+Big Banana	Ability		1	0	0
+Blessing of Might	Ability	 Paladin	1	0	0
+Blessing of Wisdom	Ability	 Paladin	1	0	0
+Brood Affliction: Black	Ability		1	0	0
+Brood Affliction: Blue	Ability		1	0	0
+Brood Affliction: Bronze	Ability		1	0	0
+Brood Affliction: Green	Ability		1	0	0
+Brood Affliction: Red	Ability		1	0	0
+Claw	Ability	 Druid	1	0	0
+Cold Blood	Ability	 Rogue	1	0	0
+Competitive Spirit	Ability	 Paladin	1	0	0
+Conceal	Ability	 Rogue	1	0	0
+Corruption	Ability	 Warlock	1	0	0
+Deadly Poison	Ability	 Rogue	1	0	0
+Deviate Banana	Ability		1	0	0
+Drakkisath's Command	Ability		1	0	0
+Earth Shock	Ability	 Shaman	1	0	0
+Emergency Coolant	Ability		1	0	0
+Execute	Ability	 Warrior	1	0	0
+Eye for an Eye	Ability	 Paladin	1	0	0
+Finicky Cloakfield	Ability		1	0	0
+Flash Heal	Ability	 Priest	1	0	0
+Forked Lightning	Ability	 Shaman	1	0	0
+Frost Shock	Ability	 Shaman	1	0	0
+Hand of Protection	Ability	 Paladin	1	0	0
+Holy Smite	Ability	 Priest	1	0	0
+Humility	Ability	 Paladin	1	0	0
+Ice Lance	Ability	 Mage	1	0	0
+Inner Fire	Ability	 Priest	1	0	0
+Light of the Naaru	Ability	 Priest	1	0	0
+Lightning Bolt	Ability	 Shaman	1	0	0
+Living Roots	Ability	 Druid	1	0	0
+Mind Control Crystal	Ability		1	0	0
+Mind Vision	Ability	 Priest	1	0	0
+Mirror Image	Ability	 Mage	1	0	0
+Mortal Coil	Ability	 Warlock	1	0	0
+Naturalize	Ability	 Druid	1	0	0
+Noble Sacrifice	Ability	 Paladin	1	0	0
+Power Overwhelming	Ability	 Warlock	1	0	0
+Power Word: Glory	Ability	 Priest	1	0	0
+Power Word: Shield	Ability	 Priest	1	0	0
+Redemption	Ability	 Paladin	1	0	0
+Repentance	Ability	 Paladin	1	0	0
+Reverberating Gong	Ability		1	0	0
+Reversing Switch	Ability		1	0	0
+Rockbiter Weapon	Ability	 Shaman	1	0	0
+Rotten Banana	Ability		1	0	0
+Rusty Horn	Ability		1	0	0
+Savagery	Ability	 Druid	1	0	0
+Shield Slam	Ability	 Warrior	1	0	0
+Sinister Strike	Ability	 Rogue	1	0	0
+Soulfire	Ability	 Warlock	1	0	0
+Sporeburst	Ability		1	0	0
+The True Warchief	Ability		1	0	0
+Time Rewinder	Ability		1	0	0
+Tracking	Ability	 Hunter	1	0	0
+Transcendence	Ability		1	0	0
+Upgrade!	Ability	 Warrior	1	0	0
+Whirling Blades	Ability		1	0	0
+Whirlwind	Ability	 Warrior	1	0	0
+Aberration	Minion		1	1	1
+Abusive Sergeant	Minion		1	2	1
+Angry Chicken	Minion		1	1	1
+Argent Squire	Minion		1	1	1
+Black Whelp	Minion		1	2	1
+Blood Imp	Minion	 Warlock	1	0	1
+Bloodsail Corsair	Minion		1	1	2
+Boar	Minion		1	1	1
+Bone Construct	Minion		1	2	1
+Bone Construct	Minion		1	4	2
+Boom Bot	Minion		1	1	1
+Brave Archer	Minion	 Hunter	1	2	1
+Buccaneer	Minion	 Rogue	1	2	1
+Chicken	Minion		1	1	1
+Clockwork Gnome	Minion		1	2	1
+Cogmaster	Minion		1	1	2
+Corrupted Egg	Minion		1	0	1
+Corrupted Egg	Minion		1	0	3
+Crazed Hunter	Minion		1	1	1
+Crazy Monkey	Minion		1	1	2
+Damaged Golem	Minion		1	2	1
+Dark Iron Spectator	Minion		1	1	1
+Deathcharger	Minion		1	2	3
+Defender	Minion	 Paladin	1	2	1
+Defias Bandit	Minion	 Rogue	1	2	1
+Dragon Egg	Minion		1	0	2
+Dragonkin	Minion		1	5	4
+Dragonkin	Minion		1	3	1
+Dust Devil	Minion	 Shaman	1	3	1
+Elven Archer	Minion		1	1	1
+Emboldener 3000	Minion		1	0	4
+Fallout Slime	Minion		1	2	2
+Flame Imp	Minion	 Warlock	1	3	2
+Flame of Azzinoth	Minion		1	2	1
+Flame of Azzinoth	Minion		1	2	1
+Gadgetzan Jouster	Minion		1	1	2
+Gnoll	Minion		1	1	1
+Goldshire Footman	Minion		1	1	2
+Grimscale Oracle	Minion		1	1	1
+Guzzler	Minion		1	1	1
+Healing Totem	Minion	 Shaman	1	0	2
+Homing Chicken	Minion		1	0	1
+Hound	Minion	 Hunter	1	1	1
+Hungry Crab	Minion		1	1	2
+Imp	Minion		1	1	1
+Imp	Minion	 Warlock	1	1	1
+Imp	Minion	 Warlock	1	1	1
+Injured Kvaldir	Minion		1	2	4
+Leper Gnome	Minion		1	2	1
+Lightwarden	Minion		1	1	2
+Lowly Squire	Minion		1	1	2
+Mana Wyrm	Minion	 Mage	1	1	3
+Mechanical Dragonling	Minion		1	2	1
+Murloc Raider	Minion		1	2	1
+Murloc Tidecaller	Minion		1	1	2
+Naga Myrmidon	Minion		1	1	1
+Northshire Cleric	Minion	 Priest	1	1	3
+Old Horde Orc	Minion		1	2	2
+Old Horde Orc	Minion		1	1	1
+Pandaren Scout	Minion		1	1	1
+Poultryizer	Minion		1	0	3
+Repair Bot	Minion		1	0	3
+Riverpaw Gnoll	Minion		1	2	1
+Sapling	Minion		1	1	1
+Searing Totem	Minion	 Shaman	1	1	1
+Secretkeeper	Minion		1	1	2
+Shadowbomber	Minion	 Priest	1	2	1
+Shieldbearer	Minion		1	0	4
+Silver Hand Recruit	Minion	 Paladin	1	1	1
+Skeleton	Minion		1	1	1
+Skeleton	Minion		1	1	1
+Slime	Minion		1	1	2
+Southsea Deckhand	Minion		1	2	1
+Spectral Spider	Minion		1	1	1
+Spectral Trainee	Minion		1	0	2
+Squire	Minion		1	2	2
+Squirrel	Minion		1	1	1
+Stoneclaw Totem	Minion	 Shaman	1	0	2
+Stonetusk Boar	Minion		1	1	1
+Timber Wolf	Minion	 Hunter	1	1	1
+Tournament Attendee	Minion		1	2	1
+Toxitron	Minion		1	3	3
+Toxitron	Minion		1	4	4
+Treant	Minion	 Druid	1	2	2
+Treant	Minion	 Druid	1	2	2
+Treant	Minion	 Druid	1	2	2
+Treant	Minion	 Druid	1	2	2
+Twilight Whelp	Minion	 Priest	1	2	1
+Undertaker	Minion		1	1	2
+Unrelenting Trainee	Minion		1	2	2
+Voidwalker	Minion	 Warlock	1	1	3
+Voodoo Doctor	Minion		1	2	1
+Warbot	Minion	 Warrior	1	1	3
+Webspinner	Minion	 Hunter	1	1	1
+Whelp	Minion		1	1	1
+Whelp	Minion		1	2	2
+Whelp	Minion		1	1	1
+Whelp	Minion		1	1	1
+Whelp	Minion		1	1	1
+Worgen Infiltrator	Minion		1	2	1
+Worthless Imp	Minion	 Warlock	1	1	1
+Wrath of Air Totem	Minion	 Shaman	1	0	2
+Young Dragonhawk	Minion		1	1	1
+Young Priestess	Minion		1	2	1
+Zombie Chow	Minion		1	2	3
+Activate Arcanotron	Hero Power		0	0	0
+Brood Affliction	Hero Power		0	0	0
+Brood Affliction	Hero Power		0	0	0
+Decimate	Hero Power		0	0	0
+Echolocate	Hero Power		0	0	0
+Eruption	Hero Power		0	0	0
+Essence of the Red	Hero Power		0	0	0
+Essence of the Red	Hero Power		0	0	0
+Frost Blast	Hero Power		0	0	0
+Frost Blast	Hero Power		0	0	0
+Frost Breath	Hero Power		0	0	0
+Ignite Mana	Hero Power		0	0	0
+Ignite Mana	Hero Power		0	0	0
+Intense Gaze	Hero Power		0	0	0
+Intense Gaze	Hero Power		0	0	0
+Jeering Crowd	Hero Power		0	0	0
+ME SMASH	Hero Power		0	0	0
+Necrotic Aura	Hero Power		0	0	0
+Nefarian Strikes!	Hero Power		0	0	0
+Nefarian Strikes!	Hero Power		0	0	0
+Pile On!	Hero Power		0	0	0
+Pile On!	Hero Power		0	0	0
+Poison Cloud	Hero Power		0	0	0
+Polarity Shift	Hero Power		0	0	0
+Raise Dead	Hero Power		0	0	0
+Raise Dead	Hero Power		0	0	0
+The Alchemist	Hero Power		0	0	0
+The Alchemist	Hero Power		0	0	0
+The Rookery	Hero Power		0	0	0
+Web Wrap	Hero Power		0	0	0
+Ambush!	Ability	 Rogue	0	0	0
+Ancestral Healing	Ability	 Shaman	0	0	0
+Ancient Secrets	Ability	 Druid	0	0	0
+Ancient Teachings	Ability	 Druid	0	0	0
+Attack Mode	Ability	 Druid	0	0	0
+Backstab	Ability	 Rogue	0	0	0
+Bear Form	Ability	 Druid	0	0	0
+Burning Adrenaline	Ability		0	0	0
+Burrowing Mine	Ability	 Warrior	0	0	0
+Cat Form	Ability	 Druid	0	0	0
+Choose a New Card!	Ability		0	0	0
+Circle of Healing	Ability	 Priest	0	0	0
+Dark Wispers	Ability	 Druid	0	0	0
+Dark Wispers	Ability	 Druid	0	0	0
+Demigod's Favor	Ability	 Druid	0	0	0
+DIE, INSECT!	Ability		0	0	0
+Dispel	Ability	 Druid	0	0	0
+Dream	Ability	 Dream	0	0	0
+Excess Mana	Ability	 Druid	0	0	0
+Fire Hawk Form	Ability	 Druid	0	0	0
+Firecat Form	Ability	 Druid	0	0	0
+Gallywix's Coin	Ability		0	0	0
+Gift of Cards	Ability	 Druid	0	0	0
+Gift of Mana	Ability	 Druid	0	0	0
+Hunter's Mark	Ability	 Hunter	0	0	0
+Inner Rage	Ability	 Warrior	0	0	0
+Innervate	Ability	 Druid	0	0	0
+Leader of the Pack	Ability	 Druid	0	0	0
+Lion Form	Ability	 Druid	0	0	0
+Living Roots	Ability		0	0	0
+Living Roots	Ability		0	0	0
+Mark of Nature	Ability	 Druid	0	0	0
+Mark of Nature	Ability	 Druid	0	0	0
+Moonfire	Ability	 Druid	0	0	0
+Moonfire	Ability	 Druid	0	0	0
+Nightmare	Ability	 Dream	0	0	0
+Nourish	Ability	 Druid	0	0	0
+Nourish	Ability	 Druid	0	0	0
+Panther Form	Ability	 Druid	0	0	0
+Preparation	Ability	 Rogue	0	0	0
+Recharge	Ability		0	0	0
+Rooted	Ability	 Druid	0	0	0
+Sacrificial Pact	Ability	 Warlock	0	0	0
+Shadowstep	Ability	 Rogue	0	0	0
+Shan'do's Lesson	Ability	 Druid	0	0	0
+Silence	Ability	 Priest	0	0	0
+Starfall	Ability	 Druid	0	0	0
+Starfall	Ability	 Druid	0	0	0
+Summon a Panther	Ability	 Druid	0	0	0
+Tank Mode	Ability	 Druid	0	0	0
+Tarnished Coin	Ability		0	0	0
+The Coin	Ability		0	0	0
+Totemic Might	Ability	 Shaman	0	0	0
+Uproot	Ability	 Druid	0	0	0
+Wrath	Ability	 Druid	0	0	0
+Wrath	Ability	 Druid	0	0	0
+Arcanotron	Minion		0	2	2
+Avatar of the Coin	Minion		0	1	1
+Barrel	Minion		0	0	2
+Chicken	Minion		0	1	1
+Firesworn	Minion		0	0	5
+Firesworn	Minion		0	0	5
+Frog	Minion		0	0	1
+Healing Totem	Minion	 Shaman	0	0	2
+Living Lava	Minion		0	6	6
+Mirror Image	Minion	 Mage	0	0	2
+Mr. Bigglesworth	Minion		0	1	1
+Murloc	Minion		0	1	1
+Murloc Scout	Minion		0	1	1
+Searing Totem	Minion	 Shaman	0	1	1
+Shadow of Nothing	Minion	 Priest	0	0	1
+Sheep	Minion		0	1	1
+Snake	Minion	 Hunter	0	1	1
+Son of the Flame	Minion		0	6	3
+Spellbender	Minion	 Mage	0	1	3
+Spore	Minion		0	0	1
+Stoneclaw Totem	Minion	 Shaman	0	0	2
+Target Dummy	Minion		0	0	2
+Violet Apprentice	Minion		0	1	1
+Whirling Ash	Minion		0	4	5
+Wisp	Minion		0	1	1
+Wrath of Air Totem	Minion	 Shaman	0	0	2
+Alleria Windrunner	Hero	 Hunter	0	0	30
+Anduin Wrynn	Hero	 Priest	0	0	30
+Anub'Rekhan	Hero		0	0	45
+Anub'Rekhan	Hero		0	0	30
+Atramedes	Hero		0	0	30
+Atramedes	Hero		0	0	30
+Baron Geddon	Hero		0	0	30
+Baron Geddon	Hero		0	0	50
+Baron Rivendare	Hero		0	0	7
+Baron Rivendare	Hero		0	0	14
+Chromaggus	Hero		0	0	30
+Chromaggus	Hero		0	0	60
+Chromatic Dragonkin	Hero		0	0	30
+Coren Direbrew	Hero		0	0	30
+Coren Direbrew	Hero		0	0	30
+Emperor Thaurissan	Hero		0	0	30
+Emperor Thaurissan	Hero		0	0	30
+Garr	Hero		0	0	30
+Garr	Hero		0	0	45
+Garrosh Hellscream	Hero	 Warrior	0	0	30
+General Drakkisath	Hero		0	0	50
+General Drakkisath	Hero		0	0	50
+Gluth	Hero		0	0	30
+Gluth	Hero		0	0	45
+Gothik the Harvester	Hero		0	0	30
+Gothik the Harvester	Hero		0	0	45
+Grand Widow Faerlina	Hero		0	0	30
+Grand Widow Faerlina	Hero		0	0	45
+Grobbulus	Hero		0	0	30
+Grobbulus	Hero		0	0	45
+Gul'dan	Hero	 Warlock	0	0	30
+Heigan the Unclean	Hero	 Warlock	0	0	30
+Heigan the Unclean	Hero	 Warlock	0	0	45
+Hemet Nesingwary	Hero	 Hunter	0	0	20
+High Justice Grimstone	Hero		0	0	30
+High Justice Grimstone	Hero		0	0	30
+Highlord Omokk	Hero		0	0	30
+Highlord Omokk	Hero		0	0	30
+Hogger	Hero		0	0	10
+Illidan Stormrage	Hero	 Hunter	0	0	30
+Instructor Razuvious	Hero		0	0	40
+Instructor Razuvious	Hero		0	0	55
+Jaina Proudmoore	Hero	 Mage	0	0	27
+Jaina Proudmoore	Hero	 Mage	0	0	30
+Kel'Thuzad	Hero		0	0	30
+Kel'Thuzad	Hero		0	0	45
+King Mukla	Hero		0	0	26
+Loatheb	Hero		0	0	75
+Loatheb	Hero		0	0	99
+Lord Jaraxxus	Hero	 Warlock	0	0	15
+Lord Victor Nefarius	Hero		0	0	30
+Lord Victor Nefarius	Hero		0	0	30
+Lorewalker Cho	Hero		0	0	25
+Maexxna	Hero		0	0	30
+Maexxna	Hero		0	0	45
+Magni Bronzebeard	Hero	 Warrior	0	0	30
+Majordomo Executus	Hero		0	0	30
+Majordomo Executus	Hero		0	0	30
+Malfurion Stormrage	Hero	 Druid	0	0	30
+Maloriak	Hero		0	0	30
+Maloriak	Hero		0	0	30
+Medivh	Hero	 Mage	0	0	30
+Millhouse Manastorm	Hero	 Mage	0	0	20
+Nefarian	Hero		0	0	30
+Nefarian	Hero		0	0	30
+Nefarian	Hero		0	0	30
+Nefarian	Hero		0	0	30
+Nefarian	Hero		0	0	30
+Noth the Plaguebringer	Hero	 Mage	0	0	30
+Noth the Plaguebringer	Hero	 Mage	0	0	45
+Omnotron Defense System	Hero		0	0	30
+Omnotron Defense System	Hero		0	0	30
+Onyxia	Hero		0	0	15
+Onyxia	Hero		0	0	30
+Patchwerk	Hero		0	0	30
+Patchwerk	Hero		0	0	45
+Ragnaros the Firelord	Hero		0	0	8
+Ragnaros the Firelord	Hero		0	0	30
+Ragnaros the Firelord	Hero		0	0	8
+Ragnaros the Firelord	Hero		0	0	60
+Razorgore the Untamed	Hero		0	0	30
+Razorgore the Untamed	Hero		0	0	30
+Rend Blackhand	Hero		0	0	30
+Rend Blackhand	Hero		0	0	30
+Rexxar	Hero	 Hunter	0	0	30
+Sapphiron	Hero		0	0	30
+Sapphiron	Hero		0	0	45
+Thaddius	Hero		0	0	30
+Thaddius	Hero		0	0	45
+Thrall	Hero	 Shaman	0	0	30
+Uther Lightbringer	Hero	 Paladin	0	0	30
+Vaelastrasz the Corrupt	Hero		0	0	30
+Vaelastrasz the Corrupt	Hero		0	0	30
+Valeera Sanguinar	Hero	 Rogue	0	0	30
