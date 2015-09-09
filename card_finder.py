@@ -3,6 +3,7 @@ import heroes
 
 # Delete the log file after each game or find the breaking point between games
 # Windows C:\Program Files (x86)\Hearthstone\Hearthstone_Data\output_log.txt (or just Program Files for 32 bit people)
+### mklink C:\Users\YOURUSER\Documents\HS\HS_tracker\Player.log C:\Hearthstone\Hearthstone_Data\output_log.txt
 # Mac ~/Library/Logs/Unity/Player.log
 f = open('Player.log') # Soft link to the log file is easier
 decks=[]
@@ -13,7 +14,7 @@ hero=''
 # LOG PARSER
 #############################################
 for line in f:
-    if 'player=2' in line and 'name=' in line and 'name=[' not in line:
+    if 'Zone' in line and 'player=2' in line and 'name=' in line and 'name=[' not in line:
         if 'Malfurion Stormrage' in line:
             hero='druid'
         elif 'Uther Lightbringer' in line:
@@ -62,6 +63,7 @@ if hero is 'rogue':
 # DECK FINDER
 #############################################
 good_cards=[]
+#print set(cards)
 for x in set(cards): # A set will not see a card that is played twice
     for d in decks:
         good=False        
@@ -85,4 +87,4 @@ for x in good_cards:
 
 for i in sorted(all_cards, key=lambda x: -x[1]):
     if i[1]>0:
-        print i
+        print (i)
